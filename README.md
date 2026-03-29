@@ -3,6 +3,8 @@
 
 A clean, modern, OLED-friendly Twitch multistream viewer for Windows. Watch up to 4 streams simultaneously from the people you follow — with chat, without chat, or fullscreen. No ads, no recommendations, no noise.
 
+A windows desktop version of https://multistreamer.app/
+
 ---
 
 ## Features
