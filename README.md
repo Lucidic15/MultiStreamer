@@ -5,6 +5,8 @@ A clean, modern, OLED-friendly Twitch multistream viewer for Windows. Watch up t
 
 A windows desktop version of https://multistreamer.app/
 
+A download for an Electron version of the website https://github.com/Lucidic15/MultiStreamer-Electron/releases
+
 ---
 
 ## Features
